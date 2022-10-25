@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mmoreno1
+- 👋 Hi, I’m Martín Moreno
 - 👀 I’m interested in python, data analysis, machine learning, computational chemistry and drug discovery.
 - 📫 How to reach me: email: martinalejo11@hotmail.com 
 
